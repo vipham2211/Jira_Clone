@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  [DEMO](https://github.com/facebook/create-react-app](https://jira-clone-flax.vercel.app/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  [DEMO](https://jira-clone-flax.vercel.app/)
 
 ## Available Scripts
 
