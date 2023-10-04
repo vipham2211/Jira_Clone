@@ -7,7 +7,7 @@ export default function Header (props) {
   return (
     <StyledHeader>
     <BoardName>{props.boardName}</BoardName>
-    <a href="https://github.com/oldboyxx/jira_clone" target="_blank" rel="noreferrer noopener">
+    <a href="https://github.com/vipham2211/Jira_Clone" target="_blank" rel="noreferrer noopener">
     <Button icon="github" >Github Repo</Button>
     </a>
    
